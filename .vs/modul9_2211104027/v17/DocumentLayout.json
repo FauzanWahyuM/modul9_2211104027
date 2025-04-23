@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\modul9_2211104027\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14131931-46F2-4D1D-859B-9767A197C33A}|modul9_2211104027\\modul9_2211104027.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\modul9_2211104027\\modul9_2211104027\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14131931-46F2-4D1D-859B-9767A197C33A}|modul9_2211104027\\modul9_2211104027.csproj|solutionrelative:modul9_2211104027\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14131931-46F2-4D1D-859B-9767A197C33A}|modul9_2211104027\\modul9_2211104027.csproj|d:\\ittp\\semester 6\\praktikum konstruksi perangkat lunak se-06-01 [yis]\\vs praktikum\\modul9_2211104027\\modul9_2211104027\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14131931-46F2-4D1D-859B-9767A197C33A}|modul9_2211104027\\modul9_2211104027.csproj|solutionrelative:modul9_2211104027\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\modul9_2211104027\\modul9_2211104027\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "modul9_2211104027\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\modul9_2211104027\\modul9_2211104027\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "modul9_2211104027\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:32:48.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\modul9_2211104027\\modul9_2211104027\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "modul9_2211104027\\Models\\Movie.cs",
+              "ToolTip": "D:\\ITTP\\Semester 6\\PRAKTIKUM KONSTRUKSI PERANGKAT LUNAK SE-06-01 [YIS]\\VS Praktikum\\modul9_2211104027\\modul9_2211104027\\Models\\Movie.cs",
+              "RelativeToolTip": "modul9_2211104027\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:32:11.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
